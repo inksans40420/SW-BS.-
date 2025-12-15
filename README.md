@@ -1,2 +1,301 @@
 # SW-BS.-
 stick Warfare: Blood Strike的综合介绍
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stick Warfare: Blood Strike —— 终极全面介绍</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: #0b0e13;
+      color: #e6e6e6;
+      line-height: 1.8;
+    }
+    header {
+      background: linear-gradient(135deg, #8b0000, #1a0000);
+      padding: 60px 30px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+      letter-spacing: 2px;
+    }
+    header p {
+      max-width: 900px;
+      margin: 20px auto 0;
+      font-size: 1.1em;
+      opacity: 0.9;
+    }
+    nav {
+      background: #121621;
+      padding: 15px 30px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    nav a {
+      color: #ff5555;
+      margin-right: 18px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      max-width: 1100px;
+      margin: auto;
+      padding: 50px 30px;
+      border-bottom: 1px solid #222;
+    }
+    section h2 {
+      color: #ff4444;
+      font-size: 2.2em;
+      margin-bottom: 20px;
+    }
+    section h3 {
+      color: #ff7777;
+      margin-top: 30px;
+    }
+    .hero-img {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .hero-img img {
+      max-width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 0 40px rgba(255,0,0,0.35);
+    }
+    ul {
+      padding-left: 22px;
+    }
+    footer {
+      background: #0a0d12;
+      padding: 40px 20px;
+      text-align: center;
+      color: #aaa;
+      font-size: 0.95em;
+    }
+    .tag {
+      display: inline-block;
+      background: #2a0000;
+      color: #ff6666;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.85em;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Stick Warfare: Blood Strike</h1>
+  <p>
+    一款以极端暴力美学、现代军事体系、火柴人战争哲学为核心的高强度横版战争游戏。<br />
+    本页面将<strong>从世界观、玩法、系统、单位、武器、模式、AI、社区文化到争议</strong>，
+    对《Stick Warfare: Blood Strike》进行<strong>从头到脚、毫无保留</strong>的终极级全面介绍。
+  </p>
+</header>
+
+<nav>
+  <a href="#overview">游戏概览</a>
+  <a href="#world">世界观</a>
+  <a href="#gameplay">核心玩法</a>
+  <a href="#modes">游戏模式</a>
+  <a href="#units">单位与兵种</a>
+  <a href="#weapons">武器系统</a>
+  <a href="#progression">成长与经济</a>
+  <a href="#ai">AI 与难度</a>
+  <a href="#audio">音效与氛围</a>
+  <a href="#community">社区与文化</a>
+</nav>
+
+<section id="overview">
+  <h2>一、游戏概览（Overview）</h2>
+  <p>
+    《Stick Warfare: Blood Strike》是一款以<strong>火柴人形象</strong>为外壳，
+    但在内核上却极端写实、冷酷、偏军事模拟的<strong>横版即时战争游戏</strong>。
+    它并不是传统意义上的“轻松火柴人游戏”，而是一个充满压迫感、血腥反馈、
+    高致死率与战术选择的<strong>战争机器</strong>。
+  </p>
+  <p>
+    游戏的核心体验可以总结为一句话：
+    <strong>“用最简陋的形象，展现最残酷的现代战争。”</strong>
+  </p>
+  <div class="hero-img">
+    <img src="PjM2RxrqF3p_ZPUHkJj17Hzi-GJ5fOFz7aJn8BKydcKc4tm61bcbRLACalwJdyFNimW8QAbdHbd9Q6pZCyuK8prEF_HBzc1hCTMNaRloD4IKqohp2uvPrwFuTQQSsRk9JMbotKOIVxKkDuy6A3yDA.webp" alt="Stick Warfare: Blood Strike 游戏画面" />
+  </div>
+  <span class="tag">横版战争</span>
+  <span class="tag">火柴人</span>
+  <span class="tag">高暴力反馈</span>
+  <span class="tag">军事风格</span>
+</section>
+
+<section id="world">
+  <h2>二、世界观设定（World Building）</h2>
+  <p>
+    《Stick Warfare: Blood Strike》的世界并没有传统意义上的“王国”“魔法”或“英雄史诗”。
+    它的背景是一个<strong>永恒战争状态</strong>下的火柴人世界。
+  </p>
+  <h3>1. 世界本质</h3>
+  <ul>
+    <li>这是一个<strong>资源枯竭</strong>的世界</li>
+    <li>没有正义与邪恶，只有阵营与生存</li>
+    <li>科技水平高度军事化</li>
+    <li>战争是常态，停火是例外</li>
+  </ul>
+  <h3>2. 阵营哲学</h3>
+  <p>
+    每一个阵营都不是“好人”。他们只是站在不同立场的战争执行者。
+    游戏刻意弱化剧情对白，而是通过：
+  </p>
+  <ul>
+    <li>单位外观</li>
+    <li>武器配置</li>
+    <li>作战方式</li>
+    <li>AI 行为逻辑</li>
+  </ul>
+  <p>
+    来让玩家<strong>自行解读这个世界的残酷法则</strong>。
+  </p>
+</section>
+
+<section id="gameplay">
+  <h2>三、核心玩法机制（Core Gameplay）</h2>
+  <h3>1. 横版推进式战争</h3>
+  <p>
+    游戏采用经典的横向战线推进结构：
+  </p>
+  <ul>
+    <li>左侧为己方基地</li>
+    <li>右侧为敌方基地</li>
+    <li>双方持续派兵、交火、消耗</li>
+  </ul>
+  <h3>2. 高致死率设计</h3>
+  <p>
+    与许多火柴人游戏不同，本作的单位<strong>非常脆弱</strong>：
+  </p>
+  <ul>
+    <li>子弹命中要害即死</li>
+    <li>爆炸具有真实范围伤害</li>
+    <li>不存在“站桩互砍”</li>
+  </ul>
+  <p>
+    这使得每一次推进都充满风险。
+  </p>
+</section>
+
+<section id="modes">
+  <h2>四、游戏模式（Game Modes）</h2>
+  <h3>1. 战役模式</h3>
+  <p>
+    战役模式通过连续关卡展示世界局势的不断恶化。
+    敌人会逐步解锁更强的单位与战术。
+  </p>
+  <h3>2. 无尽模式</h3>
+  <p>
+    测试玩家极限操作与资源调配能力的模式，
+    没有胜利，只有<strong>死亡来临的时间</strong>。
+  </p>
+  <h3>3. 特殊挑战</h3>
+  <ul>
+    <li>限制兵种</li>
+    <li>资源极度稀缺</li>
+    <li>敌方 AI 强化</li>
+  </ul>
+</section>
+
+<section id="units">
+  <h2>五、单位与兵种系统（Units & Troops）</h2>
+  <h3>基础步兵</h3>
+  <ul>
+    <li>廉价</li>
+    <li>数量优势</li>
+    <li>高死亡率</li>
+  </ul>
+  <h3>精英部队</h3>
+  <ul>
+    <li>高精准度</li>
+    <li>战术动作（翻滚、压制）</li>
+    <li>价格昂贵</li>
+  </ul>
+  <h3>重装单位</h3>
+  <ul>
+    <li>防弹护甲</li>
+    <li>机枪或重火力</li>
+    <li>推进核心</li>
+  </ul>
+</section>
+
+<section id="weapons">
+  <h2>六、武器系统（Weapons System）</h2>
+  <p>
+    本作的武器并非简单数值差异，而是具有<strong>明确战术定位</strong>：
+  </p>
+  <ul>
+    <li>突击步枪：中距离压制</li>
+    <li>狙击枪：远程点杀</li>
+    <li>霰弹枪：近战清场</li>
+    <li>爆炸物：区域歼灭</li>
+  </ul>
+</section>
+
+<section id="progression">
+  <h2>七、经济与成长系统</h2>
+  <p>
+    资源获取节奏决定了战斗节奏。
+    过快扩张会导致防线崩溃，
+    过度保守则会被火力碾压。
+  </p>
+</section>
+
+<section id="ai">
+  <h2>八、AI 与难度设计</h2>
+  <p>
+    敌方 AI 并非简单“数值更高”，而是：
+  </p>
+  <ul>
+    <li>更合理的兵种搭配</li>
+    <li>更激进的推进决策</li>
+    <li>针对玩家弱点的压制</li>
+  </ul>
+</section>
+
+<section id="audio">
+  <h2>九、音效、打击感与氛围</h2>
+  <p>
+    枪声、爆炸声、死亡反馈极其干脆，
+    没有多余的“娱乐化音效”，
+    只有战争机器运转的冷酷声音。
+  </p>
+</section>
+
+<section id="community">
+  <h2>十、社区文化与争议</h2>
+  <p>
+    《Stick Warfare: Blood Strike》拥有极端分化的评价：
+  </p>
+  <ul>
+    <li>支持者认为它真实、硬核、不妥协</li>
+    <li>反对者认为它血腥、压抑、缺乏人性</li>
+  </ul>
+  <p>
+    但无论立场如何，它都成功塑造了一个
+    <strong>无法被忽视的火柴人战争宇宙</strong>。
+  </p>
+</section>
+
+<footer>
+  <p>
+    Stick Warfare: Blood Strike 全面介绍页面<br />
+    本页面为非官方深度解析与世界观整理
+  </p>
+</footer>
+
+</body>
+</html>
